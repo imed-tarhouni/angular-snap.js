@@ -6,7 +6,7 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
-    "snapjs": "~1.9",
+    "snapjs": "https://github.com/imed-tarhouni/Snap.js#1.9.4",
     "angular": "~1.5",
     "angular-scenario": "~1.5",
     "angular-mocks": "~1.5",
